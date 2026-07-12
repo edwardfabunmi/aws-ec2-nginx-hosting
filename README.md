@@ -7,7 +7,7 @@ A hands-on AWS project demonstrating how to deploy and secure a production-ready
 ### Portfolio website: http://edwardfabunmi.online
 
 ## Portfolio contents
-* [Project overview](#01-project-overview.md)
+* [Project overview](#https://github.com/Fabunmi52/secure-static-portfolio-website-on-aws/blob/main/Documentation/01-project-overview.md)
 * [Architecture](#architecture)
 * [AWS networking](#aws-networking)
 * [EC2 and Linux administration](#ec2-and-linux-administration)

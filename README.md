@@ -8,17 +8,16 @@ A hands-on AWS project demonstrating how to deploy and secure a production-ready
 
 ## Portfolio contents
 * [Project overview](Documentation/01-project-overview.md)
-* [Project overview](Documentation/01-project-overview.md)
-* [Architecture](#architecture)
-* [AWS networking](#aws-networking)
-* [EC2 and Linux administration](#ec2-and-linux-administration)
-* [Nginx deployment](#nginx-deployment)
-* [DNS and HTTPS](#dns-and-https)
-* [Security validation](#security-validation)
-* [Troubleshooting](#troubleshooting)
-* [Cost optimization](#cost-optimization)
-* [Lessons learned and roadmap](#lessons-learned-and-roadmap)
-* [Command cheat sheet](#command-cheat-sheet)
+* [Architecture](Documentation/02-architecture.md)
+* [AWS networking](Documentation/03-aws-networking.md)
+* [EC2 and Linux administration](Documentation/04-ec2-and-linux.md)
+* [Nginx deployment](Documentation/05-nginx-deployment.md)
+* [DNS and HTTPS](Documentation/06-dns-and-https.md)
+* [Security validation](Documentation/07-security-validation.md)
+* [Troubleshooting](Documentation/08-troubleshooting.md)
+* [Cost optimization](Documentation/09-cost-optimization.md)
+* [Lessons learned and roadmap](Documentation/10-lessons-and-roadmap.md)
+* [Command cheat sheet](Documentation/commands-cheatsheet.md)
 
 ## Skills demonstrated
 * AWS VPC, subnet, Internet Gateway, route tables, Security Groups, VPC Flow Logs, S3, EC2, EBS, and Elastic IP

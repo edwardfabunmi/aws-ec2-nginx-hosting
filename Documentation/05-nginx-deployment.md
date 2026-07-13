@@ -25,8 +25,7 @@ sudo systemctl reload nginx
 curl -I http://localhost
 curl -I http://SERVER_PUBLIC_IP
 ```
-```
 A successful response should return an HTTP status such as 200 OK or a deliberate redirect.
 
-Common issue: default Nginx page
+## Common issue: default Nginx page
 Seeing the default page means Nginx is working, but the project's files have not yet replaced the default document root or the active server block points elsewhere.

@@ -1,5 +1,7 @@
 # secure-static-portfolio-website-on-aws
-<img width="891" height="1024" alt="production ready project" src="https://github.com/user-attachments/assets/b3fcc2c2-91ce-415f-9075-0a9e49a1e6a4" />
+<img width="2530" height="1291" alt="image" src="https://github.com/user-attachments/assets/c3ae8be9-85fc-4f3b-b745-d56240a8efb5" />
+
+
 
 A hands-on AWS project demonstrating how to deploy and secure a production-ready static website using Amazon EC2, Ubuntu, Nginx, a custom domain, Let's Encrypt SSL, VPC networking, and AWS security best practices.
 

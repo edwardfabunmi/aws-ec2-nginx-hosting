@@ -17,12 +17,12 @@ A publicly accessible landing page served by Nginx on an Ubuntu EC2 instance ins
 
 ## Engineering domains demonstrated
 
-- cloud architecture;
-- AWS networking;
-- Linux administration;
-- web-server deployment;
-- DNS and TLS;
-- infrastructure security;
-- troubleshooting;
-- cost awareness;
+- cloud architecture
+- AWS networking
+- Linux administration
+- web-server deployment
+- DNS and TLS
+- infrastructure security
+- troubleshooting
+- cost awareness
 - technical documentation.

@@ -35,7 +35,7 @@ The following interactive diagram illustrates the complete infrastructure stack 
 ```mermaid
 flowchart TD
     U[🌐 Internet User] --> H[HTTPS 443]
-    H --> D[Custom Domain<br/>smartcloud9.online]
+    H --> D[Custom Domain<br/>edwardfabunmi.online]
     D --> DNS[DNS A Record]
     DNS --> IP[EC2 Public IP]
     IP --> IGW[Internet Gateway]
